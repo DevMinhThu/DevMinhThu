@@ -1,6 +1,6 @@
 ### Hi there. Welcome to my Git profile 👋
 
-🔭 I’m currently working on JavaScript and React Native.
+🔭 I’m currently working mainly on JavaScript and React Native.
 <!--
 **DevMinhThu/DevMinhThu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
