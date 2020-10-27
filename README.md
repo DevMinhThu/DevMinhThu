@@ -21,3 +21,5 @@ Languages Used:<br>
 
 Github Stats:<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu)](https://github.com/anuraghazra/github-readme-stats)
