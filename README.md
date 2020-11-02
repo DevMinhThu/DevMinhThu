@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 GitHub Stats - Week Stats:<br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true" />
+  <img align="center" height="180px" 
+       src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true&title_color=5094f0&icon_color=f7d747&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="457px" height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VuMinhThu" />
