@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+GitHub Stats - Week Stats:<br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true" />
 </a>
