@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... JavaScript and React Native.<br>
 - 🌱 I’m currently learning ... NodeJS, Redux and Firebase.<br>
-- 📫 How to reach me: ... devminhthu2023@gmail.com. <br>
+- 📫 How to reach me: <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/><br>
 <!--
 **DevMinhThu/DevMinhThu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
