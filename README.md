@@ -24,11 +24,26 @@
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<!-- GitHub Stats -->
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="center" height="180px" 
-       src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true&title_color=5094f0&icon_color=e1c443&text_color=dadada&bg_color=151515&hide_border=true" />
+### Dev Stuffs:
+
+<details>	
+  <summary><b>📈 My GitHub Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true&title_color=5094f0&icon_color=e1c443&text_color=dadada&bg_color=151515&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMinhThu&langs_count=8&layout=compact&bg_color=151515&text_color=ffffff"/>
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 10 Version 20H2</li>
+	      <li><b>Laptop: </b> AcerSwift SF315-52 (i5-8250U)</li>
+  	    <li><b>Browser: </b> Microsoft Edge and Google Chrome</li>
+	      <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	      <li><b>To Stay Updated:</b> Medium and Twitter</li>
+	      <br />
+	</ul>	
 </details>
 
 <!-- Week Stats -->
@@ -37,9 +52,4 @@
   <img align="center" width="457px" height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VuMinhThu" />
 </details>
 
-<!-- Language Used -->
-<details>
-  <summary>:zap: Language Used</summary>
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMinhThu&langs_count=8&layout=compact&bg_color=151515&text_color=ffffff" />
-</details>
 
