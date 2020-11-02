@@ -18,16 +18,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-GitHub Stats - Week Stats:<br>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- GitHub Stats -->
+<details>
+  <summary>:zap: GitHub Stats</summary>
   <img align="center" height="180px" 
-       src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true&title_color=5094f0&icon_color=e1c443&text_color=dadada&bg_color=151515" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+       src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true&title_color=5094f0&icon_color=e1c443&text_color=dadada&bg_color=151515&hide_border=true" />
+</details>
+
+<!-- Week Stats -->
+<details>
+  <summary>:zap: Week Stats</summary>
   <img align="center" width="457px" height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VuMinhThu" />
-</a><br><br>
-Language Used:<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</details>
+
+<!-- Language Used -->
+<details>
+  <summary>:zap: Language Used</summary>
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMinhThu&langs_count=8&layout=compact&bg_color=151515&text_color=ffffff" />
-</a> <br><br>
+</details>
 
