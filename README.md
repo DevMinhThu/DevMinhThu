@@ -28,6 +28,6 @@ GitHub Stats - Week Stats:<br>
 </a><br><br>
 Language Used:<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMinhThu&langs_count=8&layout=compact" />
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMinhThu&langs_count=8&layout=compact&bg_color=151515&text_color=ffffff" />
 </a> <br><br>
 
