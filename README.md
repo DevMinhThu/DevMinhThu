@@ -33,6 +33,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMinhThu&langs_count=8&layout=compact&bg_color=151515&text_color=ffffff"/>
 </details>
 
+<!-- Week Stats -->
+<details>
+  <summary><b>:zap: Week Stats</b></summary>
+  <img align="center" width="457px" height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VuMinhThu" />
+</details>
+
 <!-- Things I use to get stuff done -->
 <details>	
   <br />
@@ -46,11 +52,4 @@
 	      <br />
 	</ul>	
 </details>
-
-<!-- Week Stats -->
-<details>
-  <summary><b>:zap: Week Stats</b></summary>
-  <img align="center" width="457px" height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VuMinhThu" />
-</details>
-
 
