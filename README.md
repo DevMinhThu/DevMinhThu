@@ -6,7 +6,7 @@
 ### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on HTML, CSS, JavaScript and React Native, etc.
-- 🌱 I’m currently learning NodeJS, Redux and Firebase.
+- 🌱 I’m currently learning Firebase.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DevMinhThu).
 - 💬 Ask me about anything if I can help.
 - 📫 How to reach me: devminhthu2023@gmail.com.
