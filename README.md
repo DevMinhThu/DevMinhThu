@@ -36,7 +36,7 @@
 <!-- Week Stats -->
 <details>
   <summary><b>:zap: Week Stats</b></summary>
-  <img align="center" width="457px" height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu" />
+  <img align="center" width="457px" height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu&&text_color=dadada&bg_color=151515&hide_border=true" />
 </details>
 
 <!-- Things I use to get stuff done -->
