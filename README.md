@@ -17,28 +17,27 @@
 
 
 ### **Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="25" src="https://png-assets.com/wp-content/uploads/fancy-git-logo-png-and-filegit-icon-svg-wikimedia-commons.png" alt="git"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
+<div align="center">
+	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+	<code><img height="25" src="https://png-assets.com/wp-content/uploads/fancy-git-logo-png-and-filegit-icon-svg-wikimedia-commons.png" alt="git"></code>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+</div>
 ### Dev Stuffs:
 
-	
+<!-- Week Stats -->
+<summary><b>:zap: Week Stats</b></summary><br>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu&&text_color=dadada&bg_color=151515&hide_border=true" />
+
+<details>
 <summary><b>📈 My GitHub Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true&title_color=5094f0&icon_color=e1c443&text_color=dadada&bg_color=151515&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMinhThu&langs_count=8&layout=compact&bg_color=151515&text_color=ffffff"/>
-
-
-<!-- Week Stats -->
-
-<summary><b>:zap: Week Stats</b></summary><br>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu&&text_color=dadada&bg_color=151515&hide_border=true" />
-
+</details>
 
 <!-- Things I use to get stuff done -->
 <details>	
