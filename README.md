@@ -27,17 +27,17 @@
 
 ### Dev Stuffs:
 
-<details>	
-  <summary><b>📈 My GitHub Stats</b></summary>
+	
+<summary><b>📈 My GitHub Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMinhThu&show_icons=true&title_color=5094f0&icon_color=e1c443&text_color=dadada&bg_color=151515&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMinhThu&langs_count=8&layout=compact&bg_color=151515&text_color=ffffff"/>
-</details>
+
 
 <!-- Week Stats -->
 
-  <summary><b>:zap: Week Stats</b></summary><br>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu&&text_color=dadada&bg_color=151515&hide_border=true" />
+<summary><b>:zap: Week Stats</b></summary><br>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu&&text_color=dadada&bg_color=151515&hide_border=true" />
 
 
 <!-- Things I use to get stuff done -->
