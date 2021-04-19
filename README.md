@@ -17,7 +17,6 @@
 
 
 ### **Languages and Tools:**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -36,10 +35,10 @@
 </details>
 
 <!-- Week Stats -->
-<details>
-  <summary><b>:zap: Week Stats</b></summary>
+
+  <summary><b>:zap: Week Stats</b></summary><br>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu&&text_color=dadada&bg_color=151515&hide_border=true" />
-</details>
+
 
 <!-- Things I use to get stuff done -->
 <details>	
