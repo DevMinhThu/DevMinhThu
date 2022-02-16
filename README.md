@@ -45,8 +45,8 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 Version 20H2</li>
-	      <li><b>Laptop: </b> AcerSwift SF315-52 (i5-8250U)</li>
+  	    <li><b>OS:</b> macOS Monterey - Version 12.1</li>
+	      <li><b>Laptop: </b> MacBook Pro (13-inch, M1, 2020)</li>
   	    <li><b>Browser: </b> Microsoft Edge and Google Chrome</li>
 	      <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	      <li><b>To Stay Updated:</b> Medium and Twitter</li>
