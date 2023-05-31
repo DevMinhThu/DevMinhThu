@@ -31,7 +31,7 @@
 
 <!-- Week Stats -->
 <summary><b>:zap: Week Stats</b></summary><br>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu&&text_color=dadada&bg_color=151515&hide_border=true" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevMinhThu&&text_color=dadada&bg_color=151515&hide_border=true&range=last_7_days" />
 
 <details>
 <summary><b>📈 My GitHub Stats</b></summary>
